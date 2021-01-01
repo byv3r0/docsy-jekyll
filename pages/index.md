@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Docsy Jekyll Theme
+permalink: /
+---
 # Hello lovely human!
 
 
