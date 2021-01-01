@@ -1,27 +1,16 @@
----
-layout: page
-title: Docsy Jekyll Theme
-permalink: /
----
 
-# Welcome to Docsy Jekyll
+# Hello lovely human!
 
-This is a starter template for a docsy jekyll theme.
+
+I´m glad you came to visit my site, sometimes I just have too many stuff in my head I wanna share with the wordl but I was so lazy to launch this site.. now that I did it, I hope you find the resources you need to know to be safer online and learn a bit about security stuff that can also help to decrease your digital fingerprint that as you might know, our identity, personal data, interactions and much more sometimes (kinda always) is being studied by big tech companies that take advantege of our data to improve the way algorithms work.
 
 ![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
 
-## Purpose
+## Who am I
 
-GitHub pages uses Jekyll natively, so when I make documentation, I typically
-look for Jekyll templates. Why? Using Jekyll means that I can use markdown,
-and allow for users to easily contribute, and build automatically just by
-way of pushing to a master branch (or general GitHub pages).
-I found Docsy, a beautiful Hugo template, but it requires hugo with GoLang
-which doesn't render natively on GitHub pages. For this reason, I've spent
-some time creating a custom Jekyll template that is (almost) as beautiful,
-and includes all the features that I might want.
+Wll I´m just someone pretty interested in cybersecurity, internet governance, privacy, ethical hacking & emerging technologies with the porpuse to share some knowledge with the world, digital awareness is something that I really love so I can say that´s what motivates me to open this site. 
 
-## Features
+## What are gonna find here
 
 What are these features? You should see the {% include doc.html name="Getting Started" path="getting-started" %}
 guide for a complete summary. Briefly:
